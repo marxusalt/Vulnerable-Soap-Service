@@ -28,7 +28,7 @@ git clone https://github.com/anil-yelken/Vulnerable-Soap-Service
 
 cd Vulnerable-Soap-Service
 
-sudo pip3 install -r requirements.txt
+pipenv install
 
 ## Usage
 
@@ -81,4 +81,3 @@ https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/deserialization
 https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/deserialization_requests.py
 
 <img src="https://github.com/anil-yelken/Vulnerable-Soap-Service/blob/main/deserialization.jpg">
-
